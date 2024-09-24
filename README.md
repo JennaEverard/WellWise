@@ -13,9 +13,7 @@
 
 ### Author
 
-Jenna Everard
-
-jenna.everard@columbia.edu
+Jenna Everard 𓆉︎ jenna.everard@columbia.edu
 
 ### Version
 
