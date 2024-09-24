@@ -9,7 +9,7 @@
 ~~~~~~~~~~~~~~~~~~~`~~~~~~'~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-## 𓊝 About
+## 𓆝 About
 
 ### Author
 Jenna Everard 𖡼 jenna.everard@columbia.edu
