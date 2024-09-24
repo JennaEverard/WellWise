@@ -9,11 +9,10 @@
 ~~~~~~~~~~~~~~~~~~~`~~~~~~'~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-## About
+## 𓊝 About
 
 ### Author
-
-Jenna Everard 𓆉︎ jenna.everard@columbia.edu
+Jenna Everard 𖡼 jenna.everard@columbia.edu
 
 ### Version
 
@@ -23,15 +22,15 @@ Jenna Everard 𓆉︎ jenna.everard@columbia.edu
 - *Version 1.0.2 (est. release: Oct 2024)* - will add support for .dlis and .las files
 - *Version 2.0.1 (est. release: Dec 2024)* - will add a GUI interface
 
-## GraphWell
+## 𓆝 GraphWell
 
-## LithoLogic
+## 𓆝 LithoLogic
 
-## VeloCite
+## 𓆝 VeloCite
 
-## DensiSense
+## 𓆝 DensiSense
 
-## Copyright
+## 𓆝 Copyright
 
    Copyright 2024 Jenna Everard
 
