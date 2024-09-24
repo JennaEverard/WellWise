@@ -11,6 +11,14 @@
 
 ## About
 
+### Version
+
+**Current Stable Version: ** 1.0.1
+
+*In Progress: * 
+- Version 1.0.2 (est. release: Oct 2024) - will add support for .dlis and .las files
+- Version 2.0.1 (est. release: Dec 2024) - will add a GUI interface
+
 ## GraphWell
 
 ## LithoLogic
