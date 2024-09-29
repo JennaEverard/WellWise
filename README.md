@@ -16,10 +16,10 @@ Jenna Everard 𖡼 jenna.everard@columbia.edu
 
 ### Version
 
-**Current Stable Version:** 1.0.1
+**Current Stable Version:** NA *1.0.1 to be released mid-Oct 2024*
 
 *In Progress:* 
-- *Version 1.0.2 (est. release: Oct 2024)* - will add support for .dlis and .las files
+- *Version 1.0.2 (est. release: Nov 2024)* - will add support for .dlis and .las files
 - *Version 2.0.1 (est. release: Dec 2024)* - will add a GUI interface
 
 ## 𓆝 GraphWell
