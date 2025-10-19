@@ -1,3 +1,9 @@
+# PAGE CURRENTLY UNDER CONSTRUCTION
+
+### Hello! You're seeing the old command-line version of well wise. We're working on uploading the GUI and hope to have that up here soon :) 
+
+(Turns out airplane/airport wifi is not great for uploading large files)
+
 # WellWise
 
 ```text
